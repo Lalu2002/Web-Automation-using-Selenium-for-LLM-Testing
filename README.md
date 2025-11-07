@@ -94,3 +94,13 @@ conda info --env
 
 conda activate env_name
 
+## 
+This project was developed for research purposes as part of the paper:
+“A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models.”
+If you use this code, please cite the paper: https://arxiv.org/html/2506.22493v1#S1
+
+## License
+
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+
