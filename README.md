@@ -93,7 +93,7 @@ conda info --env
 ## Use the exact environment to activate it
 
 conda activate env_name
-
+```
 ## 
 This project was developed for research purposes as part of the paper:
 “A Detailed Factor Analysis for the Political Compass Test: Navigating Ideologies of Large Language Models.”
